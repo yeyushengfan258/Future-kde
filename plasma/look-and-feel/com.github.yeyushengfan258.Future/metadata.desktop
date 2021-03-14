@@ -17,5 +17,5 @@ X-KDE-PluginInfo-Version=
 X-KDE-PluginInfo-Website=https://github.com/yeyushengfan258/Future-kde
 X-KDE-fallbackPackage=org.kde.breeze.desktop
 X-Plasma-MainScript=defaults
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1471810,kns://plasma-themes.knsrc/api.kde-look.org/1471812,kns://aurorae.knsrc/api.kde-look.org/1471807,kns://icons.knsrc/api.kde-look.org/1340791,kns://wallpaper.knsrc/api.kde-look.org/1471804,kns://sddmtheme.knsrc/api.kde-look.org/1471809,kns://xcursor.knsrc/api.kde-look.org/1421622
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1491482,kns://plasma-themes.knsrc/api.kde-look.org/1491484,kns://aurorae.knsrc/api.kde-look.org/1491480,kns://icons.knsrc/api.kde-look.org/1340791,kns://wallpaper.knsrc/api.kde-look.org/1491472,kns://sddmtheme.knsrc/api.kde-look.org/1491476,kns://xcursor.knsrc/api.kde-look.org/1457141
 X-Plasma-MainScript=defaults
