@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg"
+   sodipodi:docname="video.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="935"
+     id="namedview30"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:zoom="8.806818"
+     inkscape:cx="4.9069178"
+     inkscape:cy="0.9369111"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid871" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata54">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <style
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text { color:#363636; }</style>
+  </defs>
+  <g
+     id="video-display-brightness"
+     transform="translate(-43,-35)">
+    <rect
+       x="38"
+       y="0"
+       width="32"
+       height="32"
+       opacity="0"
+       id="rect923" />
+    <g
+       id="g931"
+       transform="translate(-34,-35)">
+      <rect
+         style="fill:#39adf5;stroke-width:3.3717;stroke-linecap:round;paint-order:stroke fill markers;fill-opacity:1"
+         id="rect925"
+         width="28.000006"
+         height="24"
+         x="73.999992"
+         y="40"
+         ry="2" />
+      <path
+         id="rect927"
+         style="fill:#b1defd;fill-opacity:1;stroke-width:2.96598;stroke-linecap:round;paint-order:stroke fill markers"
+         d="M -1 -29 C -1.554 -29 -2 -28.554 -2 -28 L -2 -10 C -2 -9.446 -1.554 -9 -1 -9 L 11 -9 L 23 -9 C 23.554002 -9 24 -9.446 24 -10 L 24 -28 C 24 -28.554 23.554002 -29 23 -29 L 11 -29 L -1 -29 z "
+         transform="translate(77,70)" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:2.30269;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect929"
+         width="4"
+         height="1"
+         x="86"
+         y="62"
+         ry="0.5" />
+    </g>
+  </g>
+  <g
+     id="22-22-video-display-brightness">
+    <rect
+       id="rect5"
+       opacity="0"
+       height="22"
+       width="22"
+       y="1.7631e-05"
+       x="9.1291997e-07"
+       style="color:#363636;fill:#363636" />
+    <g
+       id="g888"
+       transform="translate(-25)">
+      <rect
+         style="fill:#39adf5;fill-opacity:1;stroke-width:2.46784;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect925-7"
+         width="20"
+         height="18"
+         x="26"
+         y="2"
+         ry="2" />
+      <rect
+         style="fill:#b1defd;fill-opacity:1;stroke-width:2.06474;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect927-5"
+         width="18"
+         height="14"
+         x="27"
+         y="3"
+         ry="1" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:2.30269;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect929-3"
+         width="4"
+         height="1"
+         x="34"
+         y="18"
+         ry="0.5" />
+    </g>
+  </g>
+</svg>
