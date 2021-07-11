@@ -7,13 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   width="22"
+   height="22"
    version="1.1"
-   viewBox="0 0 54 64"
-   id="svg29"
+   style="enable-background:new"
    sodipodi:docname="touchpad.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
-     id="metadata33">
+     id="metadata13">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -32,118 +34,66 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="942"
-     id="namedview31"
+     inkscape:window-width="1366"
+     inkscape:window-height="711"
+     id="namedview11"
      showgrid="false"
-     inkscape:zoom="12.109375"
-     inkscape:cx="24.115449"
-     inkscape:cy="45.782722"
+     inkscape:zoom="5.2693537"
+     inkscape:cx="-3.1089044"
+     inkscape:cy="8.1129857"
      inkscape:window-x="0"
-     inkscape:window-y="38"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg29" />
+     inkscape:current-layer="svg7384" />
   <defs
-     id="defs3">
+     id="defs7386">
     <style
        id="current-color-scheme"
-       type="text/css">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-NegativeText {
-        color:#da4453;
-      }</style>
+       type="text/css">
+   .ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }
+  </style>
   </defs>
   <g
-     id="22-22-touchpad_enabled"
-     transform="translate(0,32)">
+     id="touchpad_enabled">
     <path
-       class="ColorScheme-Text"
-       d="m4 13c-0.554 0-1 0.446-1 1v14c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-14c0-0.554-0.446-1-1-1h-14zm0 1h14v11h-14v-11zm0 12h6v2h-6v-2zm8 0h6v2h-6v-2z"
-       fill="currentColor"
-       id="path5" />
+       id="rect4148"
+       d="m 0,0 h 22 c 0,0 0,0 0,0 v 22 c 0,0 0,0 0,0 H 0 c 0,0 0,0 0,0 V 0 c 0,0 0,0 0,0 z"
+       style="opacity:0;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
     <path
-       d="m0 10v22h22v-22h-22z"
-       fill="none"
-       id="path7" />
+       style="fill:#dedede;fill-opacity:1;stroke:none"
+       d="m 4,5.00336 c -1,0 -1,1 -1,1 v 11 c 0,0 0,1 1,1 h 13 c 0,0 1,0 1,-1 v -11 c 0,-1 -1,-1 -1,-1 z m 1,2 h 11 v 6 H 5 Z m 0,7 h 5 v 2 H 5 Z m 6,0 h 5 v 2 h -5 z"
+       id="path5073-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sccscsscsccccccccccccccc" />
   </g>
   <g
-     id="touchpad_enabled"
-     transform="translate(0,32)">
+     id="touchpad_disabled"
+     transform="translate(0,24.423002)">
     <path
-       class="ColorScheme-Text"
-       d="m27 4c-0.554 0-1 0.446-1 1v22c0 0.554 0.446 1 1 1h22c0.554 0 1-0.446 1-1v-22c0-0.554-0.446-1-1-1h-22zm0 1h22v17h-22v-17zm0 18h10v4h-10v-4zm12 0h10v4h-10v-4z"
-       fill="currentColor"
-       id="path10" />
-    <path
-       d="m22 0v32h32v-32h-32z"
-       fill="none"
-       id="path12" />
+       inkscape:connector-curvature="0"
+       style="opacity:0;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 0,0 h 22 c 0,0 0,0 0,0 v 22 c 0,0 0,0 0,0 H 0 c 0,0 0,0 0,0 V 0 c 0,0 0,0 0,0 z"
+       id="path838" />
+    <g
+       style="display:inline;filter:url(#filter7554);enable-background:new"
+       transform="rotate(90,272.0001,213.9999)"
+       id="g844"
+       inkscape:label="input-touchpad">
+      <rect
+         style="fill:none;stroke:none"
+         id="rect840"
+         width="16.000002"
+         height="16"
+         x="61.000198"
+         y="467" />
+      <path
+         style="fill:#dedede;fill-opacity:1;stroke:none;opacity:0.5"
+         d="m 185,340 c -1,0 -1,1 -1,1 v 11 c 0,0 0,1 1,1 h 13 c 0,0 1,0 1,-1 v -11 c 0,-1 -1,-1 -1,-1 z m 1,2 h 11 v 6 h -11 z m 0,7 h 5 v 2 h -5 z m 6,0 h 5 v 2 h -5 z"
+         transform="rotate(-90,195.00178,471.99822)"
+         id="path842"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sccscsscsccccccccccccccc" />
+    </g>
   </g>
-  <g
-     id="22-22-touchpad_disabled">
-    <path
-       class="ColorScheme-Text"
-       d="m4 13c-0.554 0-1 0.446-1 1v14c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-14c0-0.554-0.446-1-1-1h-14zm0 1h14v11h-14v-11zm0 12h6v2h-6v-2zm8 0h6v2h-6v-2z"
-       fill="currentColor"
-       fill-opacity=".6"
-       id="path15" />
-    <path
-       d="m0 10v22h22v-22h-22z"
-       fill="none"
-       id="path17" />
-    <path
-       class="ColorScheme-NegativeText"
-       d="M 8.8476562,17 8,17.847656 10.152344,20 8,22.152344 8.8476562,23 11,20.847656 13.152344,23 14,22.152344 11.847656,20 14,17.847656 13.152344,17 11,19.152344 8.8476562,17 Z"
-       fill="currentColor"
-       id="path19" />
-  </g>
-  <g
-     id="touchpad_disabled">
-    <path
-       class="ColorScheme-Text"
-       d="m27 4c-0.554 0-1 0.446-1 1v22c0 0.554 0.446 1 1 1h22c0.554 0 1-0.446 1-1v-22c0-0.554-0.446-1-1-1h-22zm0 1h22v17h-22v-17zm0 18h10v4h-10v-4zm12 0h10v4h-10v-4z"
-       fill="currentColor"
-       fill-opacity=".6"
-       id="path22" />
-    <path
-       d="m22 0v32h32v-32h-32z"
-       fill="none"
-       id="path24" />
-  </g>
-  <path
-     class="ColorScheme-NegativeText"
-     d="M 34,10.207 37.293,13.5 34,16.793 c 0.013,0.025 0.707,0.707 0.707,0.707 L 38,14.207 41.293,17.5 42,16.793 38.707,13.5 42,10.207 41.293,9.5 38,12.793 34.707,9.5 Z"
-     fill="currentColor"
-     id="path27" />
 </svg>
