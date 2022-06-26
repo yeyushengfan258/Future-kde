@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 22 22"
    version="1.0"
    height="22"
    width="22"
    id="svg120"
    sodipodi:docname="battery.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#c8c8c8"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -24,14 +24,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="940"
+     inkscape:window-height="1001"
      id="namedview120"
      showgrid="true"
-     inkscape:zoom="4.4261364"
-     inkscape:cx="-93.505395"
-     inkscape:cy="-1.343804"
+     inkscape:zoom="8.8522728"
+     inkscape:cx="-83.650834"
+     inkscape:cy="-19.26059"
      inkscape:window-x="0"
-     inkscape:window-y="38"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg120"
      inkscape:snap-nodes="true"
@@ -40,7 +40,8 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:document-rotation="0"
-     inkscape:snap-smooth-nodes="true">
+     inkscape:snap-smooth-nodes="true"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid945" />
@@ -53,7 +54,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -378,9 +378,10 @@
     <g
        id="g1139">
       <path
-         fill="#4caf50"
-         d="m-3.4643 369.51c-0.554 0-1 0.446-1 1v3h-2c3.908e-4 3.3259 1.6723 6.1922 4 6.8574v4.1426c0 0.554 0.446 1 1 1s1-0.446 1-1v-4.1426c2.3277-0.66518 3.9996-3.5315 4-6.8574h-2v-3c0-0.554-0.446-1-1-1s-1 0.446-1 1v3h-2v-3c0-0.554-0.446-1-1-1z"
-         id="path1137" />
+         id="path1786"
+         style="fill:#ffffff;fill-opacity:1"
+         d="M -73.003906 -34 C -73.557906 -34 -74.003906 -33.554 -74.003906 -33 L -74.003906 -30 L -76.003906 -30 C -76.003515 -26.6741 -74.331606 -23.807778 -72.003906 -23.142578 L -72.003906 -19 C -72.003906 -18.446 -71.557906 -18 -71.003906 -18 C -70.449906 -18 -70.003906 -18.446 -70.003906 -19 L -70.003906 -23.142578 C -67.676206 -23.807758 -66.004306 -26.6741 -66.003906 -30 L -68.003906 -30 L -68.003906 -33 C -68.003906 -33.554 -68.449906 -34 -69.003906 -34 C -69.557906 -34 -70.003906 -33.554 -70.003906 -33 L -70.003906 -30 L -72.003906 -30 L -72.003906 -33 C -72.003906 -33.554 -72.449906 -34 -73.003906 -34 z "
+         transform="translate(69.54,403.51)" />
     </g>
   </g>
   <g
